@@ -22,9 +22,9 @@ Nesta app, é possivel realizar as seguintes operações:
 7 - Menu HomeRecepção
   » Consegue realizar check-in / check out assim como cancelar estadias (No momento que cancela a estadia, o status do quarto é alterado para disponível novamente
 
-  Obs.: Para realizar testes com Role de recepção
-    User: suporte
-    Senha: teste1
+  Obs.: Para realizar testes com Role de recepção <br>
+    User: suporte<br>
+    Senha: teste1<br>
 
 
     28/08/23
