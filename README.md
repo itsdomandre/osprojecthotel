@@ -26,6 +26,7 @@ Nesta app, é possivel realizar as seguintes operações:
     User: suporte<br>
     Senha: teste1<br>
 
+https://domandre.outsystemscloud.com/ProjectHotel/
 
     28/08/23
   
